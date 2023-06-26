@@ -44,11 +44,13 @@ GEM
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
-    liquid (4.0.3)
+    liquid (4.0.4)
     listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
+    nokogiri (1.14.3-x64-mingw-ucrt)
+      racc (~> 1.4)
     nokogiri (1.14.3-x86_64-linux)
       racc (~> 1.4)
     pathutil (0.16.2)
@@ -69,6 +71,7 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
+  x64-mingw-ucrt
   x86_64-linux
 
 DEPENDENCIES
