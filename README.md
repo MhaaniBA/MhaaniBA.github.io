@@ -10,7 +10,7 @@ responsive, dark-mode ready Jekyll theme designed for use as a personal website 
 
 ## Installation
 * Click on `Use this template`
-* Your new site should be ready at https://username.github.io/gradfolio/
+* Your new site should be ready at https://MhaaniBA.github.io/gradfolio/
 * You can now modify the contents and personalise the template
 
 Alternatively, you can [download the source files](https://github.com/jitinnair1/gradfolio/archive/master.zip) and [make changes locally](https://github.com/jitinnair1/gradfolio/wiki/Local-Development). 
